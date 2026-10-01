@@ -7,18 +7,12 @@
         "last": "Lampi"
     },
     "location": {
-        "street": {
-            "number": 2304,
-            "name": "Siilitie"
-        },
+        "street": { "number": 2304, "name": "Siilitie" },
         "city": "Hausjärvi",
         "state": "Uusimaa",
         "country": "Finland",
         "postcode": 98555,
-        "timezone": {
-            "offset": "+8:00",
-            "description": "Beijing, Perth, Singapore, Hong Kong"
-        }
+        "timezone": { "offset": "+8:00", "description": "Beijing, Perth, Singapore, Hong Kong" }
     },
     "email": "emma.lampi@example.com",
     "dob": {
@@ -27,5 +21,7 @@
     },
     "phone": "02-689-410",
     "cell": "043-730-12-94",
-    "picture": "https://randomuser.me/api/portraits/women/87.jpg"
+    "picture": "https://randomuser.me/api/portraits/women/87.jpg",
+    "hobbies": ["Фотографія", "Скандинавський дизайн", "Подорожі"],
+    "details": "Емма працює графічним дизайнером і обожнює створювати мінімалістичні інтерфейси."
 }
